@@ -95,8 +95,8 @@ public class MainActivity extends AppCompatActivity {
         nrolanzamiento = 0;
         suma = 0;
         valorAnt = 0;
-        img1.setImageResource(0);
-        img2.setImageResource(0);
+        img1.setImageResource(R.drawable.juegodados);
+        img2.setImageResource(R.drawable.juegodados);
         btn1.setEnabled(true);
     }
 }
